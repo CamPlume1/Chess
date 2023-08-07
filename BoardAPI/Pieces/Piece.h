@@ -5,9 +5,7 @@
 #ifndef CHESS_PIECE_H
 #define CHESS_PIECE_H
 
-#include "Move.h"
-
-enum MoveState {SUCCESS, FAILURE};
+#include "BoardAPI/Move.h"
 
 
 
